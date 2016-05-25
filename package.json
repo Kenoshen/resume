@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My markdown resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Wingfield",
+  "license": "ISC",
+  "dependencies": {
+    "harp": "^0.20.3"
+  }
+}
