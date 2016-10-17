@@ -8,6 +8,7 @@
   },
   "author": "Michael Wingfield",
   "license": "ISC",
+  "repository": "https://github.com/Kenoshen/resume",
   "dependencies": {
     "harp": "^0.20.3"
   }

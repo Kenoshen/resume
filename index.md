@@ -18,22 +18,17 @@ Highlands Ranch, CO 80129<br>
 
 <div class="indent">
 
-**Languages and Frameworks**
-* ![Scala](img/icon/scala.png) ![Java](img/icon/java.png) ![Javascript](img/icon/javascript.png)
-* Scala, Java, Javascript
-* Scala Play, Kafka
-* JUnit, Specs
-* Node, Express, Npm
-* Mongo, SQL, ElasticSearch
-* HTML, CSS, LESS
+### Languages and Frameworks
 
-**Tools**
-* Intellij, Eclipse
-* SBT, Maven, Gradle
-* Git, Svn, Perforce
+![Scala](img/icon/scala.png) ![Java](img/icon/java.png) ![Javascript](img/icon/javascript.png) ![Play Framework](img/icon/play.png) ![Kafka](img/icon/kafka.png) ![JUnit](img/icon/junit.png) ![NodeJs](img/icon/nodejs.png) ![ExpressJs](img/icon/express.png) ![MongoDb](img/icon/mongo.png) ![SQL](img/icon/sql.png) ![ElasticSearch](img/icon/elasticsearch.png) ![HTML](img/icon/html.png) ![CSS](img/icon/css.png) ![LESS](img/icon/less.png) 
 
-**Platforms**
-* Mac, Linux, Windows
+### Tools
+
+![IntelliJ](img/icon/intellij.png) ![Eclipse](img/icon/eclipse.png) ![SBT](img/icon/sbt.png) ![Maven](img/icon/maven.png) ![Gradle](img/icon/gradle.png) ![Git](img/icon/git.png) ![Svn](img/icon/svn.png) ![Perforce](img/icon/perforce.png) 
+
+### Platforms 
+
+![Mac](img/icon/mac.png) ![Linux](img/icon/linux.png) ![Windows](img/icon/windows.png)
 
 </div>
 ---
