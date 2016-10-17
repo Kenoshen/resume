@@ -1,7 +1,11 @@
+<img class="rightpadded" src="img/me/me.jpg" />
+
 # Michael Wingfield
+
 ## Senior Software Engineer
 
 <div class="indent">
+
 
 Highlands Ranch, CO 80129 <br /> [720-971-4556](tel:7209714556) <br /> <mailto:mwingfie@gmail.com>
 
