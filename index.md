@@ -12,11 +12,14 @@ Highlands Ranch, CO 80129<br>
 </div>
 ---
 
+---
+
 ## Technical Skills
 
 <div class="indent">
 
 **Languages and Frameworks**
+* ![Scala](img/icon/scala.png) ![Java](img/icon/java.png) ![Javascript](img/icon/javascript.png)
 * Scala, Java, Javascript
 * Scala Play, Kafka
 * JUnit, Specs
@@ -41,24 +44,14 @@ Highlands Ranch, CO 80129<br>
 
 <div class="indent">
 
-**Senior Software Engineer at Charter Communications**<br>
-*May 2016 - September 2016*
-
-Responsibilities include: Designing, developing, and executing automated java and javascript test plans for Big Data projects; Developing javascript Big Data clients; Organizing collaboration between Development, Dev-Test, and QA. And developing scala applications for use with Big Data and QA.
-
 ---
 
-**Senior Software Engineer at Time Warner Cable**<br>
-*June 2015 - May 2016*
+**Senior Software Engineer at Time Warner Cable / Charter Communications**<br>
+*May 2015 - September 2016*
 
-Responsibilities include: Designing, developing, and executing automated java and javascript test plans for Big Data projects; Developing javascript Big Data clients; Organizing collaboration between Development, Dev-Test, and QA. My time is spent: writing java tests for REST servers; writing javascript clients for Big Data; developing tools for use by Dev/Dev-Test/QA to help validate the Big Data pipeline; helping my peers integrate with the systems that I am involved with.
-
----
-
-**Software Engineer at Time Warner Cable**<br>
-*May 2013 - June 2015*
-
-Responsibilities are the same as when I was a contractor. However, I am also now solely responsible for testing a product being developed that involves managing user settings using REST web-services, SQL databases, and a high level of integration with other products within Time Warner Cable.
+ - Became proficient in scala in a few short weeks
+ - Developed a web-based internal tool from scratch that is currently used by over 30 people across several teams
+ - Developed a json schema validator to be used in new Charter technology to process well over 50 million messages a day
 
 ---
 
@@ -66,20 +59,25 @@ Responsibilities are the same as when I was a contractor. However, I am also now
 *October 2014 - Present*
 
 Byte Break Studios LLC is a website/app/game development company that contracts to small local businesses. It strives to give small business owners a presence in the online and mobile space as well as allowing entrepreneurs a chance to realize their visions.
+ 
+ - Designed and developed [LTC SOM](https://itunes.apple.com/us/app/ltc-som/id983064638?mt=8), a health care app for nursing homes
 
 ---
 
-**Software Engineer (Contractor) at Time Warner Cable**<br>
-*June 2012 - May 2013*
+**Software Engineer at Time Warner Cable**<br>
+*June 2012 - May 2015*
 
-Worked as an automated test software engineer for server applications on a team of 5 people working in Java using TestNG. Responsibilities included meeting with developers and manual testers to discuss automation opportunities, designing test plans, and developing new automation tests including load testing, REST webservice testing, and database validation testing.
+ - Built an internal UI tool for searching and viewing an ElasticSearch database
+ - Migrated several products from manual testing to fully automated
+ - Unified resource management across all automated testing groups
+
 
 ---
 
 **Software Engineer (Intern) at WileBlue Communications**<br>
 *May 2011 - June 2012*
 
-Worked as a software engineer on a team of 15 engineers using the SCRUM management process on internal web service tools using Java, JavaScript, and Python. Responsibilities included designing, reviewing, developing, testing, and deploying software to internal production systems to monitor and control the network functions of the company.
+ - Developed a Trac plugin to provide more efficient and detailed time tracking reports to management
 
 </div>
 ---
