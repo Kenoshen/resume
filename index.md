@@ -1,28 +1,15 @@
 # Michael Wingfield
+### Senior Software Engineer
 
 <div class="indent">
 
-### Senior Software Engineer at Charter Communications
-<mailto:mwingfie@gmail.com><br>
-[720-971-4556](tel:7209714556)<br>
 Highlands Ranch, CO 80129<br>
+[720-971-4556](tel:7209714556)<br>
+<mailto:mwingfie@gmail.com><br>
 [GitHub](https://github.com/Kenoshen)<br>
 [LinkedIn](https://www.linkedin.com/in/michaelwingfield)
 
 </div>
----
-
----
-
-## Summary
-
-<div class="indent">
-
-Michael Wingfield is a local business owner and a dedicated computer programmer. He really enjoys learning new things about programming, technology, and DIY and employing that knowledge in personal projects as well as at work. He is a focused and motivated senior engineer with a growing number of experiences under his belt. At work, he helps contribute to his team's success by creating open communication between his colleagues in which he is not afraid to ask questions that might make him look bad or patiently explain his point of views. He values teamwork and collaboration and enjoys projects that allow him to work with others. He strives one day to become a video game programmer and is constantly pursuing that goal.
-
-</div>
----
-
 ---
 
 ## Technical Skills
@@ -31,8 +18,8 @@ Michael Wingfield is a local business owner and a dedicated computer programmer.
 
 **Languages and Frameworks**
 * Scala, Java, Javascript
-* Scala Play, Kafka, Akka
-* JUnit, NGUnit, Specs
+* Scala Play, Kafka
+* JUnit, Specs
 * Node, Express, Npm
 * Mongo, SQL, ElasticSearch
 * HTML, CSS, LESS
@@ -55,16 +42,9 @@ Michael Wingfield is a local business owner and a dedicated computer programmer.
 <div class="indent">
 
 **Senior Software Engineer at Charter Communications**<br>
-*May 2016 - Present*
+*May 2016 - September 2016*
 
 Responsibilities include: Designing, developing, and executing automated java and javascript test plans for Big Data projects; Developing javascript Big Data clients; Organizing collaboration between Development, Dev-Test, and QA. And developing scala applications for use with Big Data and QA.
-
----
-
-**Owner at Byte Break Studios LLC**<br>
-*October 2014 - Present*
-
-Byte Break Studios LLC is a website/app/game development company that contracts to small local businesses. It strives to give small business owners a presence in the online and mobile space as well as allowing entrepreneurs a chance to realize their visions.
 
 ---
 
@@ -79,6 +59,13 @@ Responsibilities include: Designing, developing, and executing automated java an
 *May 2013 - June 2015*
 
 Responsibilities are the same as when I was a contractor. However, I am also now solely responsible for testing a product being developed that involves managing user settings using REST web-services, SQL databases, and a high level of integration with other products within Time Warner Cable.
+
+---
+
+**Owner of Byte Break Studios LLC**<br>
+*October 2014 - Present*
+
+Byte Break Studios LLC is a website/app/game development company that contracts to small local businesses. It strives to give small business owners a presence in the online and mobile space as well as allowing entrepreneurs a chance to realize their visions.
 
 ---
 
@@ -116,6 +103,14 @@ Bachelor of Innovation, Game Design and Development with a Minor in Creative Com
 ## Projects
 
 <div class="indent">
+
+**Ludum Dare 36: Sporg's Mishap**<br>
+*August 2016*<br>
+_with: Jacob Caban-Tomski, Logan Moore_
+
+This game is a platformer where you have to run around and collect all of the pieces of your ship.  We were able to include some unique polish items like beginning and ending cutscenes as well as some AI pathfinding.  It ended up as a fairly polished finished product.
+
+---
 
 **Global Game Jam 2016: Tarant**<br>
 *January 2016*<br>
@@ -183,20 +178,6 @@ This is a particle system I made in XNA using HLSL. The particle data is stored 
 *January 2012*
 
 I made this 2D particle system to get a better understanding of what the CPU was capable of in terms of processing particles. It was the kind of the inspiration for my GPU Accelerated Particle System. I thought that if I could make a pretty fast, and really cool-looking, 2D particle system that ran on the CPU, I could make something even cooler using 3D and the GPU.
-
-</div>
----
-
----
-
-## Volunteer Experience
-
-<div class="indent">
-
-**Youth Coach at EDGE Student Life**<br>
-*May 2013 - January 2015*
-
-I help a Youth Minister along with several other Youth Coaches to give high school kids a safe place to hang out and help the students get more involved with their local churches.
 
 </div>
 ---
