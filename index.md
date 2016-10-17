@@ -111,7 +111,7 @@ _with: Jacob Caban-Tomski, Logan Moore_
 
 This game is a platformer where you have to run around and collect all of the pieces of your ship.  We were able to include some unique polish items like beginning and ending cutscenes as well as some AI pathfinding.  It ended up as a fairly polished finished product.
 
-![sporg_01](img/ludumdare/sporgs_mishap_01.png) ![sporg_02](img/ludumdare/sporgs_mishap_02.jpg)
+![sporg_01](img/ludumdare/sporgs_mishap_01.png) ![sporg_03](img/ludumdare/sporgs_mishap_03.gif)
 
 ---
 
