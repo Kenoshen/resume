@@ -10,4 +10,8 @@ npm install
 
 ```
 node node_modules/harp/bin/harp server --port 80
+
+or
+
+npm start
 ```

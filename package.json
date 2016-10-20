@@ -4,6 +4,7 @@
   "description": "My markdown resume",
   "main": "index.js",
   "scripts": {
+    "start": "node node_modules/harp/bin/harp server --port 9000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Wingfield",

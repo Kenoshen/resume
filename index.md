@@ -115,7 +115,7 @@ _with: Jacob Caban-Tomski, Logan Moore_
 
 This game is a platformer where you have to run around and collect all of the pieces of your ship.  We were able to include some unique polish items like beginning and ending cutscenes as well as some AI pathfinding.  It ended up as a fairly polished finished product.
 
-![sporg_01](img/ludumdare/sporgs_mishap_01.png) ![sporg_03](img/ludumdare/sporgs_mishap_03.gif)
+![sporg_01](img/ludumdare/sporgs_mishap_01.png) ![sporg_03](img/ludumdare/sporgs_mishap_03.gif) <iframe width="560" height="315" src="https://www.youtube.com/embed/_zCHlO6gyhY" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -125,7 +125,7 @@ _with: Jacob Caban-Tomski, Tanner Moore, Logan Moore_
 
 The theme was a tie between "Growing" and "Two Button Controls". The game that we developed in the end turned out to be a platformer version of Mario Kart. You and 3 friends (or AI opponents) race to get to the finish line while also grabbing power ups and collecting coins to purchase upgrades. The game ended up getting the highest "Fun" rating (3.55/5.0) we've had on any of our games as well as breaking 4.0 in the "Graphics" rating.
 
-![dendrite_01](img/ludumdare/dendrite_01.jpg) ![dendrite_02](img/ludumdare/dendrite_02.jpg)
+![dendrite_01](img/ludumdare/dendrite_01.jpg) ![dendrite_02](img/ludumdare/dendrite_02.jpg) <iframe width="560" height="315" src="https://www.youtube.com/embed/uSN7uYBvoc4" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -135,7 +135,7 @@ _with: Tanner Moore, Logan Moore_
 
 The theme was "You are the monster". We decided to create a side scrolling beat'em'up with a hobo that gets transported to the future. We were able to create some really great lighting effects (with the help of a new tool called SpriteDLight) as well as a really awesome cutscene at the beginning of the game.
 
-![scabs_01](img/ludumdare/scabs_01.png) ![scabs_02](img/ludumdare/scabs_02.jpg)
+![scabs_01](img/ludumdare/scabs_01.png) ![scabs_02](img/ludumdare/scabs_02.jpg) <iframe width="560" height="315" src="https://www.youtube.com/embed/UcBKL88phYg?start=600" frameborder="0" allowfullscreen></iframe>
 
 ---
 
