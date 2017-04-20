@@ -8,10 +8,14 @@ npm install
 
 ## Run
 
+*prod*
+
 ```
-node node_modules/harp/bin/harp server --port 80
+node node_modules/harp/bin/harp server --port 80 & >> /dev/null
+```
 
-or
+*test*
 
+```
 npm start
 ```
