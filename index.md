@@ -45,6 +45,14 @@ Highlands Ranch, CO 80129 <br /> [720-971-4556](tel:7209714556) <br /> <mailto:m
 
 <div class="indent">
 
+**Gameplay Engineer at Dire Wolf Digital**<br>
+*January 2017 - Present*
+
+ - Scripted cards for several major sets
+ - Developed a custom text-based DSL for use by QA to write automated test scripts attached to JIRA tickets
+ - Refactored hundreds of scripts to be more efficient and less error prone
+
+---
 
 <img class="rightpadded" src="img/bytebreak/ltcsom_02.jpeg" />
 
