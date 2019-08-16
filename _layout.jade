@@ -1,8 +1,20 @@
 doctype
 html
     head
-        title= "Michael Wingfield"
-        link(rel="stylesheet" href="/main.css")
-
+        title= "Byte Break Studios LLC"
+        link(rel="shortcut icon" href="favicon.png?v=2" type="image/x-icon")
+        link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous")
+        link(rel="stylesheet" href="/css/main.css")
     body
-        != yield
+        header
+            div(id="name" onclick="location.href='/';")="Byte Break Studios LLC"
+            div(id="buttons")
+                div(onclick="location.href='/about';")
+                    p="About"
+                div(onclick="location.href='/services';")
+                    p="Services"
+                //- div="Reviews"
+                div(onclick="location.href='/contact';")
+                    p="Contact"
+        
+    != yield

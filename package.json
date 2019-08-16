@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "My markdown resume",
+  "description": "Byte Break Studios LLC Markdown Website",
   "main": "index.js",
   "scripts": {
     "start": "node node_modules/harp/bin/harp server --port 9000",
